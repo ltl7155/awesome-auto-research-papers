@@ -6,9 +6,7 @@ Papers about auto research:
 
 It is estimated that researchers spend much of their time on tasks that are not directly relevant to idea development, paper writing, or conducting experiments. With the advancement of large language models (LLMs), it is now possible for LLM-based agents to take over these peripheral efforts, significantly improving research efficiency.
 
-This repository primarily focuses on papers that explore and advance such automated research initiatives. If you find this repository useful to your research or work, it is really appreciated to star this repository and cite our papers [here](#Reference). :sparkles:
-
-It contains papers, codes, datasets, evaluations, and analyses. Any additional things regarding jailbreak, PRs, issues are welcome and we are glad to add you to the contributor list. Any problems, please contact XXX@gmail.com. 
+This repository primarily focuses on papers that explore and advance such automated research initiatives. It contains papers, codes, datasets, evaluations, and analyses. Any additional things regarding jailbreak, PRs, issues are welcome and we are glad to add you to the contributor list. Any problems, please contact XXX@gmail.com. If you find this repository useful to your research or work, it is really appreciated to star this repository and cite our papers [here](#Reference). :sparkles:
 
 
 ## Bookmarks
